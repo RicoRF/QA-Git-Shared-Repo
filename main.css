@@ -1,1 +1,83 @@
 /* Testing */
+/* Now it works */
+
+div {
+	
+	width: 800px;
+	height: auto;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	background: white;
+	border-radius: 20px;
+	padding: 4vh;
+	margin: 2vh;
+	
+}
+
+body img {
+	
+	max-width: 300px !important;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	text-align: center !important;
+		
+}
+
+body {
+	
+	background: #f2f2f2;
+	font-family: "Open Sans", Helvetica, Arial;
+	font-size: 1em;
+	line-height: 1.2em;
+	text-align: center !important;
+	
+}
+
+ul {
+	
+	list-style-type: none;
+	padding-left: 0;
+	padding-right: 0;
+	
+}
+
+li {
+	
+	display: inline;
+	font-weight: 600;
+	
+}
+
+li:hover {
+	
+	font-weight: 700;
+	
+}
+
+input {
+	
+	background: black;
+	color: white;
+	font-weight: bold;
+	border-radius: 20px;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	width: 120px;
+	border: none;
+}
+
+a {
+	
+	text-decoration: none;
+	color: black;
+	font-weight: 400 !important;
+	transition: font-weight, .8s;
+	
+}
+
+a:hover {
+	
+	font-weight: 700 !important;
+	transition: font-weight, .8s;
+	
+}
